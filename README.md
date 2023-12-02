@@ -1,4 +1,5 @@
-#PyCryptor
+<h1 style="font-weight:bold">PyCryptor</h1>
+
 The "PyCryptor" script is a simple Python program that provides a user-friendly menu interface for performing various encryption and hashing operations. Users can choose from a selection of encryption methods, including Caesar Cipher, Base64 encoding/decoding, Fernet encryption/decryption, and hash functions such as MD5, SHA-256, and SHA-512.
 
 Features:
